@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+<<<<<<< HEAD
 .langgraph_api
+=======
+.langraph_api
+>>>>>>> 284a528 (update .gitignore)
